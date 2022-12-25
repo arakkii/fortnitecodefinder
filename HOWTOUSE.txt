@@ -1,3 +1,3 @@
 To use this code finder, all you have to do is create a bookmark (name it whatever you want), than make the link this the following line.
-javascript: req = new XMLHttpRequest(); req.open('GET', 'https://raw.githubusercontent.com/arakkii/fortnitecodefinder/main/main.js'); req.onload = function() { (1,eval)(this.responseText); }; req.send();
+javascript: req = new XMLHttpRequest(); req.open('GET', 'https://raw.githubusercontent.com/emmett-os/fortnitecodefinder/main/main.js'); req.onload = function() { (1,eval)(this.responseText); }; req.send();
 After this, just go on a website, and press the button!
